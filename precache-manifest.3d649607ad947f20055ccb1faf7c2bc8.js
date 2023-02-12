@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "8306a054f0a53ce3c99e176019f586c5",
+    "revision": "5011fd8d23b6a37e6a918c68a071eaf5",
     "url": "https://gauravd-123.github.io/csb-opi5s8/index.html"
   },
   {
@@ -8,8 +8,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "https://gauravd-123.github.io/csb-opi5s8/static/js/2.391f220e.chunk.js"
   },
   {
-    "revision": "bf05ff9d8cdac4b87098",
-    "url": "https://gauravd-123.github.io/csb-opi5s8/static/js/main.30917b7e.chunk.js"
+    "revision": "fa79f0d6ce4e916c37b0",
+    "url": "https://gauravd-123.github.io/csb-opi5s8/static/js/main.ff19101d.chunk.js"
   },
   {
     "revision": "9222cc0e5447724c4044",
