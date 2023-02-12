@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.js": "https://gauravd-123.github.io/csb-opi5s8/static/js/main.30917b7e.chunk.js",
+    "main.js.map": "https://gauravd-123.github.io/csb-opi5s8/static/js/main.30917b7e.chunk.js.map",
+    "runtime-main.js": "https://gauravd-123.github.io/csb-opi5s8/static/js/runtime-main.d4af9c3f.js",
+    "runtime-main.js.map": "https://gauravd-123.github.io/csb-opi5s8/static/js/runtime-main.d4af9c3f.js.map",
+    "static/js/2.391f220e.chunk.js": "https://gauravd-123.github.io/csb-opi5s8/static/js/2.391f220e.chunk.js",
+    "static/js/2.391f220e.chunk.js.map": "https://gauravd-123.github.io/csb-opi5s8/static/js/2.391f220e.chunk.js.map",
+    "index.html": "https://gauravd-123.github.io/csb-opi5s8/index.html",
+    "precache-manifest.a0e8fcdbb65298770ba7d58f0a1793ac.js": "https://gauravd-123.github.io/csb-opi5s8/precache-manifest.a0e8fcdbb65298770ba7d58f0a1793ac.js",
+    "service-worker.js": "https://gauravd-123.github.io/csb-opi5s8/service-worker.js"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d4af9c3f.js",
+    "static/js/2.391f220e.chunk.js",
+    "static/js/main.30917b7e.chunk.js"
+  ]
+}
